@@ -42,7 +42,9 @@ The ball position is affected by beam angle, gravity, rotational inertia, rollin
 A=\begin{bmatrix}0&1&0&0\\0&0&-7&0\\0&0&0&1\\-56.8&0&0&0\end{bmatrix},\quad
 B=\begin{bmatrix}0\\0\\0\\52.6\end{bmatrix},\quad
 C=\begin{bmatrix}1&0&0&0\end{bmatrix}
+
 ```
+
 
 The original source defines a **1×4** `D` vector (`[0 0 1 0]`), which is **not dimensionally compatible** with a one-output, one-input state-space realization. The uploaded script is deliberately retained unchanged; this model must be checked before relying on numerical simulation or controller design. See [validation notes](docs/VALIDATION.md).
 
@@ -147,4 +149,4 @@ ball-and-beam-control-system/
 
 ## Attribution and license
 
-**Primary author and builder:** [hanahmdi](https://github.com/hanahmdi). This portfolio repository is an English presentation of the author's project, including original source files and separately prepared explanatory material. Collaborator contributions and third-party resources should be acknowledged wherever applicable. The original coursework report is not redistributed. **No open-source license has been selected.**
+This portfolio repository is an English presentation of the author's project, including original source files and separately prepared explanatory material. Collaborator contributions and third-party resources should be acknowledged wherever applicable. The original coursework report is not redistributed. **No open-source license has been selected.**
