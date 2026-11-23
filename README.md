@@ -6,9 +6,6 @@ This repository documents an educational **ball-and-beam control project**, cove
 
 > **Project scope:** This independently led educational prototype integrates mathematical modeling, simulation, PID tuning experiments and an Arduino-based mechanism. Controller performance varies across the models and operating conditions; some experimental runs show oscillations and sensitivity to tuning. Quantitative hardware tracking metrics have not yet been established, and a standalone Arduino firmware file was not included in the archived materials.
 
-## Authorship and project role
-
-**Project lead, principal developer and primary technical report author:** [hanahmdi](https://github.com/hanahmdi). The design, assembly, modeling work and core documentation are presented as the author's own contributions. Any collaborators or third-party resources, where applicable, should be credited separately.
 
 ## Project at a glance
 
