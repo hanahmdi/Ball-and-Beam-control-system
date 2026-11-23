@@ -1,0 +1,25 @@
+# MATLAB and Simulink
+*.asv
+*.autosave
+*.m~
+*.slx~
+*.slxc
+slprj/
+sfprj/
+codegen/
+*_ert_rtw/
+*_grt_rtw/
+
+# Arduino build files
+*.elf
+*.hex
+*.bin
+
+# Editor settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
