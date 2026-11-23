@@ -4,7 +4,7 @@
 
 This repository documents an educational **ball-and-beam control project**, covering a mathematical model, linear and nonlinear Simulink experiments, Simscape Multibody modeling, controller experiments, and an assembled physical prototype. The original simulation models and video recordings are preserved as project evidence.
 
-> **Project scope:** This independently led educational prototype integrates mathematical modeling, simulation, PID tuning experiments and an Arduino-based mechanism. Controller performance varies across the models and operating conditions; some experimental runs show oscillations and sensitivity to tuning. Quantitative hardware tracking metrics have not yet been established, and a standalone Arduino firmware file was not included in the archived materials.
+> **Project scope:** This educational prototype integrates mathematical modeling, simulation, PID tuning experiments and an Arduino-based mechanism. Controller performance varies across the models and operating conditions; some experimental runs show oscillations and sensitivity to tuning. Quantitative hardware tracking metrics have not yet been established, and a standalone Arduino firmware file was not included in the archived materials.
 
 
 ## Project at a glance
